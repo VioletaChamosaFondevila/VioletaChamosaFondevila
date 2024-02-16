@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=violetachamosafondevila&label=Profile%20views&color=0e75b6&style=flat" alt="violetachamosafondevila" /> </p>
 
-- 🔭 I’m currently working on **Reverse Image Search**
+- 🔭 I’m currently working on a **Project to analyse the most demanded skills for Data Analyst in different job portals**
 
 - 🌱 I’m currently learning **AWS Cloud**
 
